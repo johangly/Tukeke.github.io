@@ -1,0 +1,12 @@
+
+$color-1: #323232;
+$color-2: hsl(0, 0%, 96%);
+$color-3: hsl(37, 81%, 56%);
+$color-4: hsl(152, 87%, 28%);
+$color-5: hsl(51, 100%, 50%);
+
+interesting colors
+
+FFD900
+
+86E495
